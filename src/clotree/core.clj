@@ -5,7 +5,8 @@
   ;; (:require [loom.graph :as lgraph])
   ;; (:require [loom.gen :as lgen])
   ;; (:require [loom.io :as lio])
-  (:use [clojure.java.shell :only [sh]]))
+  ;;  (:use [clojure.java.shell :only [sh]])
+  )
 
 
 (defn unique-ns
