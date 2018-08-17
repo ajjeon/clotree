@@ -15,7 +15,7 @@ FIXME
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Ah Jung Jeon
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
