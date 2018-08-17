@@ -1,6 +1,13 @@
 # clotree
 
-A Clojure library designed to ... well, that part is up to you.
+[last updated 17/08/18]
+[still under development]
+
+
+A Clojure library designed to generate tree of functions to help visualise the network of functions under a project. Functions from each namespace is colored differently.
+
+![alt text](output/function-tree.png)
+
 
 ## Usage
 
